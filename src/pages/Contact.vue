@@ -109,7 +109,7 @@
                 try{
                    await axios({
                         method:'POST',
-                        url:`${process.env.GRIDSOME_MODE.GRIDSOME_API_URL}/contacts`,
+                        url:`${process.env.GRIDSOME_API_URL}/contacts`,
                         data:this.form
                     })
                     window.alert('发送成功')
