@@ -154,8 +154,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="559" />
-    <option name="y" value="-1057" />
+    <option name="x" value="558" />
+    <option name="y" value="-855" />
     <option name="width" value="1326" />
     <option name="height" value="1036" />
   </component>
@@ -186,6 +186,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
