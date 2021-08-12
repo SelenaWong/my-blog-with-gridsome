@@ -4,6 +4,6 @@
 src/.temp
 node_modules
 dist
-.idea
+.idea/
 
 
